@@ -19,4 +19,4 @@ Analista de Dados com formação pela EBAC – Escola Britânica de Artes Criati
 
 ### Contatos
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/gustavofloliveira/)
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/gustavo-fl-oliveira/)
