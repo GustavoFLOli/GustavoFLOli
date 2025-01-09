@@ -6,8 +6,7 @@ Analista de Dados com formação pela EBAC – Escola Britânica de Artes Criati
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavofloli&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavofloli&show_icons=true&theme=dark)]
 ### Projetos
 
 [![Predição da felicidade mundial](https://github-readme-stats.vercel.app/api/pin/?username=gustavofloli&repo=world_happiness_prediction_portuguese&theme=dark)](https://github.com/GustavoFLOli/world_happiness_prediction_portuguese)
@@ -16,7 +15,7 @@ Analista de Dados com formação pela EBAC – Escola Britânica de Artes Criati
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofloli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavofloli&layout=compact)]
 
 ### Contatos
 
