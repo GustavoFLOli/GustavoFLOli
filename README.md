@@ -10,8 +10,8 @@ Analista de Dados com formação pela EBAC – Escola Britânica de Artes Criati
 
 ### Projetos
 
-[![Predição da felicidade mundial](https://github-readme-stats.vercel.app/api/pin/?username=gustavofloli&repo=world_happiness_prediction_portuguese&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Captura automática de mensagens do Telegram](https://github-readme-stats.vercel.app/api/pin/?username=gustavofloli&repo=chatbot-telegram-ebac&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Predição da felicidade mundial](https://github-readme-stats.vercel.app/api/pin/?username=gustavofloli&repo=world_happiness_prediction_portuguese&theme=dark)](https://github.com/GustavoFLOli/world_happiness_prediction_portuguese)
+[![Captura automática de mensagens do Telegram](https://github-readme-stats.vercel.app/api/pin/?username=gustavofloli&repo=chatbot-telegram-ebac&theme=dark)](https://github.com/GustavoFLOli/chatbot-telegram-ebac)
 
 
 ### Linguagens utilizadas
